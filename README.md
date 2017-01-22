@@ -9,7 +9,7 @@ For beginners you can should solve all of the listed short exercises and receive
 ##Grading
 Projects will be due 1 week from the session, but we will accept late submissions taking some points for each day it is late. The lateness penalty for an assignment that is submitted between N and N+1 full days late (where N is nonnegative) is 2^N % of the assignment's value. That is, the penalty is 1% for being up to 1 day late, 2% for being from 1 to 2 days late, 4% for being from 2 to 3 days late, and so forth.
 
-##Beginner Project
+##Beginner Exercises
 
 ####Exercise 1: TextView
 Create a TextView, “I Love Android!” and style it too.
